@@ -1,0 +1,772 @@
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\project.exe
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\MetroFramework.Design.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\MetroFramework.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.exe
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Guna.UI2.dll
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.UserRegistration.resources
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\EnvDTE.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\stdole.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\EnvDTE80.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\VSLangProj.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\VSLangProj80.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\VSLangProj2.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.exe.config
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.ReportSection.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmLogin.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmStudent.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frm_HomePage.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmCourse.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmExamDetails.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmExamMarks.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmInstructor.resources
+C:\Users\AJRJ24\source\repos\project\project\obj\Debug\project.frmTeacher.resources
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\project.exe
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Guna.UI2.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MetroFramework.Design.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MetroFramework.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\QRCoder.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\EnvDTE.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\stdole.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\EnvDTE80.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\VSLangProj.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\VSLangProj80.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\VSLangProj2.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.exe.config
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frm_Attendance.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmCourse.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmExamDetails.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmExamMarks.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmLogin.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frm_HomePage.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmInstructor.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmStudent.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frmTeacher.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.UserRegistration.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.exe
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\BasselTech CamCapture.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.Barcode.dll
+E:\New folder (3)\project\project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\New folder (3)\project\project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\New folder (3)\project\project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\New folder (3)\project\project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\New folder (3)\project\project\bin\Debug\project.exe.config
+E:\New folder (3)\project\project\bin\Debug\project.exe
+E:\New folder (3)\project\project\bin\Debug\project.pdb
+E:\New folder (3)\project\project\bin\Debug\BasselTech CamCapture.dll
+E:\New folder (3)\project\project\bin\Debug\Guna.UI2.dll
+E:\New folder (3)\project\project\bin\Debug\MessagingToolkit.Barcode.dll
+E:\New folder (3)\project\project\bin\Debug\MetroFramework.Design.dll
+E:\New folder (3)\project\project\bin\Debug\MetroFramework.dll
+E:\New folder (3)\project\project\bin\Debug\MetroFramework.Fonts.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\New folder (3)\project\project\bin\Debug\QRCoder.dll
+E:\New folder (3)\project\project\bin\Debug\EnvDTE.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\New folder (3)\project\project\bin\Debug\stdole.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\New folder (3)\project\project\bin\Debug\EnvDTE80.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\New folder (3)\project\project\bin\Debug\VSLangProj.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\New folder (3)\project\project\bin\Debug\VSLangProj80.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\New folder (3)\project\project\bin\Debug\Newtonsoft.Json.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.MSXML.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.Build.Framework.dll
+E:\New folder (3)\project\project\bin\Debug\VSLangProj2.dll
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\New folder (3)\project\project\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\New folder (3)\project\project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder (3)\project\project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder (3)\project\project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder (3)\project\project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder (3)\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\New folder (3)\project\project\obj\Debug\project.exe.config
+E:\New folder (3)\project\project\obj\Debug\project.frm_Attendance.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmCourse.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmExamDetails.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmExamMarks.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmLogin.resources
+E:\New folder (3)\project\project\obj\Debug\project.frm_HomePage.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmInstructor.resources
+E:\New folder (3)\project\project\obj\Debug\project.Properties.Resources.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmStudent.resources
+E:\New folder (3)\project\project\obj\Debug\project.frmTeacher.resources
+E:\New folder (3)\project\project\obj\Debug\project.UserRegistration.resources
+E:\New folder (3)\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\New folder (3)\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\New folder (3)\project\project\obj\Debug\project.csproj.CopyComplete
+E:\New folder (3)\project\project\obj\Debug\project.exe
+E:\New folder (3)\project\project\obj\Debug\project.pdb
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frm_C_S_T.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\RdlCompile.cache
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\RdlCompile.compiled
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\AForge.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\AForge.Video.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zxing.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zxing.presentation.dll
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\AForge.xml
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\AForge.Video.xml
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zxing.xml
+C:\Users\AJRJ24\Desktop\project\project\bin\Debug\zxing.presentation.xml
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frm_ReportsWindow.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frm_Repo_St_Marks.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.frm_Repo_St_Co.resources
+C:\Users\AJRJ24\Desktop\project\project\obj\Debug\project.Repo_Att.resources
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\project.exe
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\AForge.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\AForge.Video.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\BasselTech CamCapture.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Guna.UI2.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.Core.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.MMS.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.Pdu.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.UI.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MessagingToolkit.Wap.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MetroFramework.Design.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MetroFramework.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\QRCoder.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zxing.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zxing.presentation.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\EnvDTE.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\stdole.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\EnvDTE80.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\VSLangProj.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\VSLangProj80.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\VSLangProj2.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\AForge.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\AForge.Video.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zxing.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zxing.presentation.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.exe.config
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frm_Attendance.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmCourse.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frm_C_S_T.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmExamDetails.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmExamMarks.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmLogin.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frm_HomePage.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmInstructor.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frm_ReportsWindow.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.Repo_Att.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frm_Repo_St_Co.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frm_Repo_St_Marks.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmStudent.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.frmTeacher.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.UserRegistration.resources
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.exe
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\project.exe.manifest
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\project.application
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.exe.manifest
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.application
+C:\Users\AMIDU\Desktop\project\project\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AMIDU\Desktop\project\project\obj\Debug\project.HomePage_INS.resources
+D:\project\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\project\project\obj\Debug\project.exe.config
+D:\project\project\obj\Debug\project.frm_Attendance.resources
+D:\project\project\obj\Debug\project.frmCourse.resources
+D:\project\project\obj\Debug\project.frm_C_S_T.resources
+D:\project\project\obj\Debug\project.frmExamDetails.resources
+D:\project\project\obj\Debug\project.frmExamMarks.resources
+D:\project\project\obj\Debug\project.frmLogin.resources
+D:\project\project\obj\Debug\project.frm_HomePage.resources
+D:\project\project\obj\Debug\project.HomePage_INS.resources
+D:\project\project\obj\Debug\project.frmInstructor.resources
+D:\project\project\obj\Debug\project.Properties.Resources.resources
+D:\project\project\obj\Debug\project.frm_ReportsWindow.resources
+D:\project\project\obj\Debug\project.frm_RP_STM.resources
+D:\project\project\obj\Debug\project.frmStudent.resources
+D:\project\project\obj\Debug\project.frmTeacher.resources
+D:\project\project\obj\Debug\project.UserRegistration.resources
+D:\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\project\project\obj\Debug\RdlCompile.cache
+D:\project\project\obj\Debug\RdlCompile.compiled
+D:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\project\project\obj\Debug\project.exe
+D:\project\project\obj\Debug\project.pdb
+D:\project\project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\project\project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\project\project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\project\project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\project\project\bin\Debug\project.exe.config
+D:\project\project\bin\Debug\project.exe.manifest
+D:\project\project\bin\Debug\project.application
+D:\project\project\bin\Debug\project.exe
+D:\project\project\bin\Debug\project.pdb
+D:\project\project\bin\Debug\AForge.dll
+D:\project\project\bin\Debug\AForge.Video.DirectShow.dll
+D:\project\project\bin\Debug\AForge.Video.dll
+D:\project\project\bin\Debug\BasselTech CamCapture.dll
+D:\project\project\bin\Debug\Guna.UI2.dll
+D:\project\project\bin\Debug\MessagingToolkit.Barcode.dll
+D:\project\project\bin\Debug\MessagingToolkit.Core.dll
+D:\project\project\bin\Debug\MessagingToolkit.MMS.dll
+D:\project\project\bin\Debug\MessagingToolkit.Pdu.dll
+D:\project\project\bin\Debug\MessagingToolkit.QRCode.dll
+D:\project\project\bin\Debug\MessagingToolkit.UI.dll
+D:\project\project\bin\Debug\MessagingToolkit.Wap.dll
+D:\project\project\bin\Debug\MetroFramework.Design.dll
+D:\project\project\bin\Debug\MetroFramework.dll
+D:\project\project\bin\Debug\MetroFramework.Fonts.dll
+D:\project\project\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\project\project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\project\project\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\project\project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\project\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\project\project\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\project\project\bin\Debug\QRCoder.dll
+D:\project\project\bin\Debug\zxing.dll
+D:\project\project\bin\Debug\zxing.presentation.dll
+D:\project\project\bin\Debug\EnvDTE.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\project\project\bin\Debug\stdole.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\project\project\bin\Debug\EnvDTE80.dll
+D:\project\project\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\project\project\bin\Debug\VSLangProj.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\project\project\bin\Debug\VSLangProj80.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\project\project\bin\Debug\Newtonsoft.Json.dll
+D:\project\project\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\project\project\bin\Debug\Microsoft.MSXML.dll
+D:\project\project\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\project\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\project\project\bin\Debug\Microsoft.Build.Framework.dll
+D:\project\project\bin\Debug\VSLangProj2.dll
+D:\project\project\bin\Debug\AForge.xml
+D:\project\project\bin\Debug\AForge.Video.xml
+D:\project\project\bin\Debug\AForge.Video.DirectShow.xml
+D:\project\project\bin\Debug\zxing.xml
+D:\project\project\bin\Debug\zxing.presentation.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\project\project\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\project\project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\project\project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\project\project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\project\project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\project\project\obj\Debug\project.exe.manifest
+D:\project\project\obj\Debug\project.application
+D:\project\project\obj\Debug\project.csproj.CopyComplete
+D:\project\project\obj\Debug\project.frm_RP_T_CO.resources
+D:\project\project\obj\Debug\project.frm_RP_Att.resources
+D:\a\class management system\project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\a\class management system\project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\a\class management system\project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\a\class management system\project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\a\class management system\project\bin\Debug\project.exe.config
+D:\a\class management system\project\bin\Debug\project.exe.manifest
+D:\a\class management system\project\bin\Debug\project.application
+D:\a\class management system\project\bin\Debug\project.exe
+D:\a\class management system\project\bin\Debug\project.pdb
+D:\a\class management system\project\bin\Debug\AForge.dll
+D:\a\class management system\project\bin\Debug\AForge.Video.DirectShow.dll
+D:\a\class management system\project\bin\Debug\AForge.Video.dll
+D:\a\class management system\project\bin\Debug\BasselTech CamCapture.dll
+D:\a\class management system\project\bin\Debug\Guna.UI2.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.Barcode.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.Core.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.MMS.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.Pdu.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.QRCode.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.UI.dll
+D:\a\class management system\project\bin\Debug\MessagingToolkit.Wap.dll
+D:\a\class management system\project\bin\Debug\MetroFramework.Design.dll
+D:\a\class management system\project\bin\Debug\MetroFramework.dll
+D:\a\class management system\project\bin\Debug\MetroFramework.Fonts.dll
+D:\a\class management system\project\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\a\class management system\project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\a\class management system\project\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\a\class management system\project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\a\class management system\project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\a\class management system\project\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\a\class management system\project\bin\Debug\QRCoder.dll
+D:\a\class management system\project\bin\Debug\zxing.dll
+D:\a\class management system\project\bin\Debug\zxing.presentation.dll
+D:\a\class management system\project\bin\Debug\EnvDTE.dll
+D:\a\class management system\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\a\class management system\project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\a\class management system\project\bin\Debug\stdole.dll
+D:\a\class management system\project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\a\class management system\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\a\class management system\project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\a\class management system\project\bin\Debug\Microsoft.MSXML.dll
+D:\a\class management system\project\bin\Debug\AForge.xml
+D:\a\class management system\project\bin\Debug\AForge.Video.xml
+D:\a\class management system\project\bin\Debug\AForge.Video.DirectShow.xml
+D:\a\class management system\project\bin\Debug\zxing.xml
+D:\a\class management system\project\bin\Debug\zxing.presentation.xml
+D:\a\class management system\project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\a\class management system\project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\a\class management system\project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\a\class management system\project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\a\class management system\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\a\class management system\project\obj\Debug\project.frm_Attendance.resources
+D:\a\class management system\project\obj\Debug\project.frmCourse.resources
+D:\a\class management system\project\obj\Debug\project.frm_C_S_T.resources
+D:\a\class management system\project\obj\Debug\project.frmExamDetails.resources
+D:\a\class management system\project\obj\Debug\project.frmExamMarks.resources
+D:\a\class management system\project\obj\Debug\project.frmLogin.resources
+D:\a\class management system\project\obj\Debug\project.frm_HomePage.resources
+D:\a\class management system\project\obj\Debug\project.HomePage_INS.resources
+D:\a\class management system\project\obj\Debug\project.frmInstructor.resources
+D:\a\class management system\project\obj\Debug\project.Properties.Resources.resources
+D:\a\class management system\project\obj\Debug\project.frm_ReportsWindow.resources
+D:\a\class management system\project\obj\Debug\project.frm_RP_Att.resources
+D:\a\class management system\project\obj\Debug\project.frm_RP_STM.resources
+D:\a\class management system\project\obj\Debug\project.frm_RP_T_CO.resources
+D:\a\class management system\project\obj\Debug\project.frmStudent.resources
+D:\a\class management system\project\obj\Debug\project.frmTeacher.resources
+D:\a\class management system\project\obj\Debug\project.UserRegistration.resources
+D:\a\class management system\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\a\class management system\project\obj\Debug\RdlCompile.cache
+D:\a\class management system\project\obj\Debug\RdlCompile.compiled
+D:\a\class management system\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\a\class management system\project\obj\Debug\project.exe.manifest
+D:\a\class management system\project\obj\Debug\project.application
+D:\a\class management system\project\obj\Debug\project.csproj.CopyComplete
+D:\a\class management system\project\obj\Debug\project.exe
+D:\a\class management system\project\obj\Debug\project.pdb
